@@ -1,6 +1,4 @@
 # Things To Do - Vidor
 
-1. Estuda Git >:( [[Tecnologias Utilizadas#^d72877]] ^007ff3
-	- Links :
-	- https://www.cursoemvideo.com/course/curso-de-git-e-github/
-	-  https://github.com/DanielHe4rt/git4noobs 
+- Estuda Git >:( [[tecnologias utilizadas#^d72877]] ^007ff3
+- Estuda LaTex >:( [[tecnologias utilizadas#^76e994]] ^3b8f61
